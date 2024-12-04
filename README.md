@@ -31,6 +31,6 @@ All project-related data files are stored in the data/ folder of this repository
 
 | Group Member        | Contribution                                      |
 |--------------------|--------------------------------------------------|
-| Zhen Fu           | Data cleaning, visualization, code for analysis. |
+| Zhen Fu           | Data cleaning, subway 10 years delay visualization, code for analysis. |
 | Member 2          | Weather data integration, delay mapping.         |
 | Member 3          | Subways and bus delay notebook scripting.        |
