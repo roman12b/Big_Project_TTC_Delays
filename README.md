@@ -32,5 +32,5 @@ All project-related data files are stored in the data/ folder of this repository
 | Group Member        | Contribution                                      |
 |--------------------|--------------------------------------------------|
 | Zhen Fu           | Data cleaning, subway delay visualizations, code for analysis. |
-| Roman Beilin      | Explore Subway Delays for 2023, including Disorder & Assaults factors, Data cleaning and modifying, Geospatial Analysis & mapping |
+| Roman Beilin      | Explore Subway Delays for 2023 including Disorder & Assaults factors, Data cleaning and modifying, Geospatial Analysis & mapping |
 | Member 3          | Subways and bus delay notebook scripting.        |
